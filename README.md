@@ -1,2 +1,2 @@
 # Sentiment_Analysi
-Analysing the Sentiments of sentiments as Positive or Negative
+Analysing the Sentiments of sentences as Positive or Negative
